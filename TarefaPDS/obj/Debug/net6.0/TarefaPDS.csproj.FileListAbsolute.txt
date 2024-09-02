@@ -1,0 +1,6 @@
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\TarefaPDS\TarefaPDS\obj\Debug\net6.0\TarefaPDS.csproj.AssemblyReference.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\TarefaPDS\TarefaPDS\obj\Debug\net6.0\TarefaPDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\TarefaPDS\TarefaPDS\obj\Debug\net6.0\TarefaPDS.AssemblyInfoInputs.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\TarefaPDS\TarefaPDS\obj\Debug\net6.0\TarefaPDS.AssemblyInfo.cs
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\TarefaPDS\TarefaPDS\obj\Debug\net6.0\TarefaPDS.csproj.CoreCompileInputs.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\TarefaPDS\TarefaPDS\obj\Debug\net6.0\TarefaPDS.MvcApplicationPartsAssemblyInfo.cache
